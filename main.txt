@@ -1,0 +1,12 @@
+let and const
+arrow function
+template literals
+default parameter
+rest and spread
+destructuring
+classes
+modules
+promises
+async await
+try catch
+
